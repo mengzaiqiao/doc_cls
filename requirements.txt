@@ -1,0 +1,13 @@
+torch>=1.5.1
+nltk>=3.5
+torchtext==0.8.0a0+c4a91f2
+scikit-learn==0.23.1
+pandas==1.1.0
+transformers==3.0.2
+tabulate==0.8.7
+munch==2.5.0
+tqdm==4.48.0
+GPUtil==1.4.0
+ray==0.8.7
+tensorboardX==2.1
+longformer==0.1
